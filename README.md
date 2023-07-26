@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hello everyone 👋
+
+I am Gianluca Faraoni, Graduate in Economics passionate statistical sciences and their use towards the financial industry.
+
+Currently, some projects of mine include:
+ - Random forest algorithms
+ - Convolutional Neural Networks
+ - Binary classification and prediction
+
+To contact me please write at: gianluca.faraoni@gmail.com
+
 
 <!--
 **suddenyield/suddenyield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
